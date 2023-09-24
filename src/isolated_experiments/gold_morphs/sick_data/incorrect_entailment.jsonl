@@ -1,0 +1,50 @@
+{"premise": "A hole is being burrowed by the badger", "hypothesis": "A badger is shrewdly digging the earth", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A young girl in a bikini is jumping on the beach", "hypothesis": "A young girl in swimming suite is jumping on the beach", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black dog and a small white and black dog are looking up at a kitchen countertop", "hypothesis": "A large dog and a small dog are standing next to the kitchen counter and are investigating", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "The man is lifting barbells", "hypothesis": "The man is lifting weights", "gold": "entailment", "predicted": "contradiction", "morphs": []}
+{"premise": "Swimmers are racing in a lake", "hypothesis": "Some racers are swimming in a lake", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A girl in blue is sliding down a green slide", "hypothesis": "The young girl in blue is enjoying a slide", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A group of people are standing around a sound mixing table", "hypothesis": "Some people is looking at sound equipment", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A hole is being burrowed by the badger", "hypothesis": "A badger is shrewdly digging the earth", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A group of people are standing around a sound mixing table", "hypothesis": "Some people is looking at sound equipment", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black dog and a small white and black dog are looking up at a kitchen countertop", "hypothesis": "A large dog and a small dog are standing next to the kitchen counter and are investigating", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black dog and a small white and black dog are looking up at a kitchen countertop", "hypothesis": "A large dog and a small dog are standing next to the kitchen counter and are investigating", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "Some cameras are being burned by a person with a blow torch", "hypothesis": "The person is setting fire to the cameras", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black and white dog is carrying a huge stick on the green grass", "hypothesis": "A black and white dog with a large branch is running in the field", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A young girl in a bikini is jumping on the beach", "hypothesis": "A young girl in swimming suite is jumping on the beach", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is dancing on the ceiling of a room", "hypothesis": "The man is dancing upside-down on the ceiling", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black and white dog is carrying a huge stick on the green grass", "hypothesis": "A black and white dog with a large branch is running in the field", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A woman is riding a water scooter", "hypothesis": "A woman is riding a scooter for water", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "Some cameras are being burned by a person with a blow torch", "hypothesis": "The person is setting fire to the cameras", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "Some cameras are being burned by a person with a blow torch", "hypothesis": "The person is setting fire to the cameras", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "Swimmers are racing in a lake", "hypothesis": "Some racers are swimming in a lake", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "The man is lifting barbells", "hypothesis": "The man is lifting weights", "gold": "entailment", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is lifting barbells", "hypothesis": "The man is lifting weights", "gold": "entailment", "predicted": "contradiction", "morphs": []}
+{"premise": "Some cameras are being burned by a person with a blow torch", "hypothesis": "The person is setting fire to the cameras", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "The man is lifting barbells", "hypothesis": "The man is lifting weights", "gold": "entailment", "predicted": "contradiction", "morphs": []}
+{"premise": "One white dog and one black one are running side by side on the grass", "hypothesis": "A dog, which has a black coat, and a white dog are running on the grass", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A group of people are standing around a sound mixing table", "hypothesis": "Some people is looking at sound equipment", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is dancing on the ceiling of a room", "hypothesis": "The man is dancing upside-down on the ceiling", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A girl in blue is sliding down a green slide", "hypothesis": "The young girl in blue is enjoying a slide", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "Some cameras are being burned by a person with a blow torch", "hypothesis": "The person is setting fire to the cameras", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black and white dog is carrying a huge stick on the green grass", "hypothesis": "A black and white dog with a large branch is running in the field", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A young girl in a bikini is jumping on the beach", "hypothesis": "A young girl in swimming suite is jumping on the beach", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A hole is being burrowed by the badger", "hypothesis": "A badger is shrewdly digging the earth", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A woman is riding a water scooter", "hypothesis": "A woman is riding a scooter for water", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black dog and a small white and black dog are looking up at a kitchen countertop", "hypothesis": "A large dog and a small dog are standing next to the kitchen counter and are investigating", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black dog and a small white and black dog are looking up at a kitchen countertop", "hypothesis": "A large dog and a small dog are standing next to the kitchen counter and are investigating", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A black and white dog is carrying a huge stick on the green grass", "hypothesis": "A black and white dog with a large branch is running in the field", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A man is playing the drum", "hypothesis": "A man is practicing the drum", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A group of people are standing around a sound mixing table", "hypothesis": "Some people is looking at sound equipment", "gold": "entailment", "predicted": "neutral", "morphs": []}
+{"premise": "A girl in blue is sliding down a green slide", "hypothesis": "The young girl in blue is enjoying a slide", "gold": "entailment", "predicted": "neutral", "morphs": []}

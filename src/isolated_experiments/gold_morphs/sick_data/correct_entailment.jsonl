@@ -1,0 +1,50 @@
+{"premise": "The food on the trays is being eaten by the kittens", "hypothesis": "A few kittens are eating", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Two people are driving a jeep and a lady is sitting on the top of it", "hypothesis": "Two people are driving a jeep and a girl is sitting on the top of it", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The group of people is sitting in a dim room", "hypothesis": "The group of people is sitting in a room which is dim", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A person is pouring oil for cooking into a pot", "hypothesis": "A person is pouring cooking oil into a pot", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is cutting a note", "hypothesis": "A man is cutting a paper", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A dog is running breathlessly on the road", "hypothesis": "A dog is running on the road", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man and a woman are in a room painted beige, wearing dark colored shirts and a monitor is in the background", "hypothesis": "A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A young girl in a blue leotard is jumping in the air", "hypothesis": "A young girl in a leotard colored in blue is jumping in the air", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is playing a guitar", "hypothesis": "A man is strumming a guitar", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A white and tan dog is running through the tall and green grass", "hypothesis": "A white and tan dog is running through a field", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head", "hypothesis": "A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is climbing a rope", "hypothesis": "A man is climbing up a rope", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The group of people is sitting in a dim room", "hypothesis": "The group of people is sitting in a room which is dim", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Two dogs are playing by a tree", "hypothesis": "Two dogs are playing by a plant", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The lady is picking up the kangaroo", "hypothesis": "The woman is picking up the kangaroo", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The snowboarder is doing a flip over a mound of snow", "hypothesis": "Somebody is jumping in the air on a board", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A bull dog is being brushed by the monkey", "hypothesis": "The monkey is brushing a bull dog", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man in a black jersey is standing in a gym", "hypothesis": "A man is standing in a gym and is wearing a jersey", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Two white dogs are quickly running together", "hypothesis": "Two white dogs are running together", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A white and tan dog is running through the tall and green grass", "hypothesis": "A white and tan dog is running through a field", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A white and tan dog is running through the tall and green grass", "hypothesis": "A white and tan dog is running through a field", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Garlic is being chopped by a woman", "hypothesis": "A woman is chopping garlic", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man in a black jersey is standing in a gym", "hypothesis": "A man is standing in a gym and is wearing a jersey", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "It is raining on a walking man", "hypothesis": "A man is walking in the rain", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Three women are dancing", "hypothesis": "A few women are dancing", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is recklessly climbing a rope", "hypothesis": "A man is climbing a rope", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A white and tan dog is running through the tall and green grass", "hypothesis": "A white and tan dog is running through a field", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Three women are dancing", "hypothesis": "A few women are dancing", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is climbing a rope", "hypothesis": "A man is climbing up a rope", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is cutting a note", "hypothesis": "A man is cutting a paper", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is hurriedly getting into a car in a garage", "hypothesis": "A man is getting into a car", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is hurriedly getting into a car in a garage", "hypothesis": "A man is getting into a car", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Three women are dancing", "hypothesis": "A few women are dancing", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The man is hurling knives at a tree", "hypothesis": "The man is throwing knives at a tree", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A large green ball is hitting a potato", "hypothesis": "A large green colored ball is hitting a potato", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A hiker is on top of the mountain and is doing a joyful dance", "hypothesis": "A hiker is on top of the mountain and is dancing", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head", "hypothesis": "A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The man is talking on the telephone", "hypothesis": "The man is speaking on the telephone", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Vegetables are being put into a pot by a man", "hypothesis": "Someone is pouring ingredients into a pot", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The lady is slicing a tomato", "hypothesis": "Someone is cutting a tomato", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A little boy is sticking his tongue out for the camera and another boy is looking on", "hypothesis": "Two kids are looking up at the camera and one is sticking out his tongue", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is doing a trick on a skateboard", "hypothesis": "A person is doing a trick on a skateboard", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A flute is being played in a lovely way by a girl", "hypothesis": "A flute is being played by a girl", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A tray is being buttered by a person", "hypothesis": "A person is buttering a tray", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "The snowboarder is doing a flip over a mound of snow", "hypothesis": "Somebody is jumping in the air on a board", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A large brown dog and a small grey dog are standing on a rocky surface", "hypothesis": "A big brown dog and a small grey dog are standing on a rocky surface", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man in a jersey which is black is standing in a gym", "hypothesis": "A man in a black jersey is standing in a gym", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A man is recklessly climbing a rope", "hypothesis": "A man is climbing a rope", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "Two white dogs are playing with a brown dog and a tennis ball", "hypothesis": "Two white dogs are playing with a brown dog and a ball", "gold": "entailment", "predicted": "entailment", "morphs": []}
+{"premise": "A black dog is running in the grass and its tongue is hanging out", "hypothesis": "A black dog is running in the grass", "gold": "entailment", "predicted": "entailment", "morphs": []}

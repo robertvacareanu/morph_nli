@@ -1,0 +1,50 @@
+{"premise": "Three young men are running, jumping and kicking near a vending machine", "hypothesis": "There is no man running, jumping and kicking near a vending machine", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The man at the beach is not doing a handstand on the wet sand at the edge of the water", "hypothesis": "The man is doing a handstand on the wet sand at the edge of the water at the beach", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The woman in a red costume is leaning against a brick wall and playing an instrument", "hypothesis": "The woman in a red costume is not leaning against a brick wall and is not playing an instrument", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is playing a flute", "hypothesis": "The woman is not playing the flute", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man playing the piano", "hypothesis": "A man is playing the piano", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A boy is looking at a calendar", "hypothesis": "There is no boy checking a calendar", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A band is not playing some instruments", "hypothesis": "A band is playing some instruments", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal", "hypothesis": "There is no hockey player in a yellow jersey guarding the goal", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "An adult is in the amphitheater and is talking to a boy", "hypothesis": "There is no adult in the amphitheater talking to a boy", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is taking off a cloak, which is very large, and revealing an extravagant dress", "hypothesis": "A woman is putting on a cloak, which is very large, and concealing an extravagant dress", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no little boy wearing a green soccer strip and running on the grass", "hypothesis": "A little boy is wearing a green soccer strip and is running on the grass", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "Boys are not dancing in front of some people", "hypothesis": "Boys are dancing in front of some people", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The woman in a red costume is leaning against a brick wall and playing an instrument", "hypothesis": "The woman in a red costume is not leaning against a brick wall and is not playing an instrument", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The young boys are playing outdoors and the man is smiling nearby", "hypothesis": "There is no boy playing outdoors and there is no man smiling", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A boy is looking at a calendar", "hypothesis": "There is no boy checking a calendar", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is playing a flute", "hypothesis": "A man is not playing a flute", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The person is slicing a clove of garlic into pieces", "hypothesis": "The person is not slicing a clove of garlic into pieces", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A blond child is going down a slide and throwing up his arms", "hypothesis": "A child with dark hair is going down a slide and throwing up his arms", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "Some people and vehicles are on a crowded street", "hypothesis": "Some people and vehicles are on a almost empty street", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is taking off a cloak, which is very large, and revealing an extravagant dress", "hypothesis": "A woman is putting on a cloak, which is very large, and concealing an extravagant dress", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no girl in white dancing", "hypothesis": "A girl in white is dancing", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is drawing", "hypothesis": "There is no man drawing", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is not rock climbing and a city and a bay are in the background", "hypothesis": "A man is rock climbing and a city and a bay are in the background", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "Racers are running down a track", "hypothesis": "There are no racers running down a track", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The lady is slicing a tomato", "hypothesis": "There is no one cutting a tomato", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man exercising", "hypothesis": "A man is exercising", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is taking off a cloak, which is very large, and revealing an extravagant dress", "hypothesis": "A woman is putting on a cloak, which is very large, and concealing an extravagant dress", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The lady is slicing a tomato", "hypothesis": "There is no one cutting a tomato", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A boy is looking at a calendar", "hypothesis": "There is no boy checking a calendar", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man playing the piano", "hypothesis": "A man is playing the piano", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The person is slicing a clove of garlic into pieces", "hypothesis": "The person is not slicing a clove of garlic into pieces", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The person is slicing a clove of garlic into pieces", "hypothesis": "The person is not slicing a clove of garlic into pieces", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The lady is slicing a tomato", "hypothesis": "There is no one cutting a tomato", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man drawing a picture", "hypothesis": "A man is drawing a picture", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A large green ball is hitting a potato", "hypothesis": "A big green ball is missing a potato", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no girl in white dancing", "hypothesis": "A girl in white is dancing", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no little boy wearing a green soccer strip and running on the grass", "hypothesis": "A little boy is wearing a green soccer strip and is running on the grass", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is cutting a thick rope with a sword", "hypothesis": "There is no man cutting a rope with a sword", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is opening a box with a knife", "hypothesis": "There is no man opening a box with a knife", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is denying an interview", "hypothesis": "The man is granting an interview", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A black and white dog with a large branch is standing in the field", "hypothesis": "A black and white dog with a large branch is running in the field", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is spraying a super soaker into the mouth of a dog", "hypothesis": "There is no man spraying a super soaker into the mouth of a dog", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is dancing and singing alone", "hypothesis": "A woman is dancing and singing with other women", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no woman using an eye pencil and applying eye liner to her eyelid", "hypothesis": "A woman is applying cosmetics to her eyelid", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is playing a flute", "hypothesis": "A man is not playing a flute", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is playing a large flute", "hypothesis": "There is no man playing a flute", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is not rock climbing and a city and a bay are in the background", "hypothesis": "A man is rock climbing and a city and a bay are in the background", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man exercising", "hypothesis": "A man is exercising", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A brown dog is running across the yard with a toy in its mouth", "hypothesis": "There is no brown dog running across the yard with a toy in its mouth", "gold": "contradiction", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is slicing a fish", "hypothesis": "There is no woman slicing a fish", "gold": "contradiction", "predicted": "contradiction", "morphs": []}

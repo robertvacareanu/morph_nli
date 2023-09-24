@@ -1,0 +1,50 @@
+{"premise": "A person is standing near a motorcycle", "hypothesis": "A person is chopping an onion", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is leaning on the ledge of a balcony", "hypothesis": "A man is leaning on the ledge of a balcony", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man spraying a super soaker into the mouth of a dog", "hypothesis": "A man is squirting water into the mouth of a white dog with a squirt gun", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is playing a guitar", "hypothesis": "A man is playing a trumpet", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person is cutting some ginger", "hypothesis": "A person is slicing an onion", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is removing knives from a tree", "hypothesis": "The man is throwing knives at a tree", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is wearing a blue helmet and is riding a bicycle in a parking lot", "hypothesis": "A woman is parking a blue bicycle and is wearing lots of riding helmets", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A girl is running through the water at the beach", "hypothesis": "A boy in a white t-shirt is splashing in shallow water", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Not a lot of people are in an ice skating park", "hypothesis": "An ice skating rink placed outdoors is full of people", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "The children of a family are playing and waiting", "hypothesis": "An Asian man is dancing and three kids are looking", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A grey silky dog is lying in the grass and a brown dog is looking on", "hypothesis": "The brown dog is spotting a black dog lying in the dry grass", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man singing and playing a guitar", "hypothesis": "A boy is playing a piano", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "There is no man spraying a super soaker into the mouth of a dog", "hypothesis": "A man is squirting water into the mouth of a white dog with a squirt gun", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person in a black jacket is doing tricks on a motorbike", "hypothesis": "A skilled person is riding a bicycle on one wheel", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is running on the road", "hypothesis": "A dog is running breathlessly on the road", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The rider on the blue and black motocross bike is not wearing the pants", "hypothesis": "A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is tapping her fingers", "hypothesis": "A woman is resting her fingers on a table", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is playing an electric guitar", "hypothesis": "A group of people is holding drinks and pointing at the camera", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background", "hypothesis": "A dog is in the sand that is blowing in the air", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "The children of a family are playing and waiting", "hypothesis": "An Asian man is dancing and three kids are looking", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Someone is on a black and white motorcycle and is standing on the seat", "hypothesis": "A motorcycle is riding standing up on the seat of the vehicle", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "A group of people are dancing in a show", "hypothesis": "A group of people are marching", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Two small children are playing with a toy car in the street", "hypothesis": "A dog is running through a field and is chasing a toy", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is chopping a tree trunk with an axe", "hypothesis": "A man is chopping a log with an axe", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Someone is falling off a horse", "hypothesis": "The man is not knocked off of a horse", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is walking along a path through the wilderness", "hypothesis": "A man is lazily walking down a road", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The children of a family are playing and waiting", "hypothesis": "An Asian man is dancing and three kids are looking", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A woman is tapping her fingers on a table", "hypothesis": "A woman is resting her fingers on a table", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "A man is breaking tiles with his hands", "hypothesis": "There is no man breaking wooden boards with his hand", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person is cutting some ginger", "hypothesis": "A person is slicing an onion", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person by some cameras is blowing on a burning torch", "hypothesis": "The person is setting fire to the cameras", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person by some cameras is blowing on a burning torch", "hypothesis": "The person is setting fire to the cameras", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Someone is falling off a horse", "hypothesis": "The man is not knocked off of a horse", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A dog is eating a doll", "hypothesis": "A dog is playing with a toy", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "The man is kick boxing with a trainer", "hypothesis": "There is no karate practitioner kicking at another man who is wearing protective boxing gloves", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "Someone is on a black and white motorcycle and is standing on the seat", "hypothesis": "A motorcycle is riding standing up on the seat of the vehicle", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "No group of people is gathering at a stand at the fair", "hypothesis": "The people are standing at a carnival", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A man is reloading a shotgun", "hypothesis": "A man is firing a shotgun", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A little boy is wearing a yellow tank top and is laughing", "hypothesis": "A laughing boy is in a yellow tank and is wearing a top", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "One man is sitting on the chair", "hypothesis": "The girl, who is little, is ruffling her hair", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The dog is snapping at some droplets of water", "hypothesis": "A girl in a band is playing an instrument", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water", "hypothesis": "Two males are standing on a cliff edge and one is jumping into the water", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "A woman is combing her hair", "hypothesis": "A woman is arranging her hair", "gold": "neutral", "predicted": "entailment", "morphs": []}
+{"premise": "A man is playing a guitar", "hypothesis": "A man is laying down a guitar", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The rider on the blue and black motocross bike is not wearing the pants", "hypothesis": "A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The boy and girl are not playing on a playground", "hypothesis": "The boy and girl are playing on the outdoor gym", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A person is slicing some mushrooms", "hypothesis": "The elephant is being ridden by the woman", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The man is walking along a path through the wilderness", "hypothesis": "A man is lazily walking down a road", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "The child is splashing water in a big red pool", "hypothesis": "A toddler is making a splash inside a blue paddling pool", "gold": "neutral", "predicted": "contradiction", "morphs": []}
+{"premise": "A kid in orange is playing outside with a snowball", "hypothesis": "A snow ball is being made by a child", "gold": "neutral", "predicted": "entailment", "morphs": []}
